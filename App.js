@@ -195,6 +195,6 @@ const styles = {
     marginLeft: 5,
   },
   pendingAnimation: {
-    // Add your animation styles here
+    //poner animacion aqui
   },
 };
